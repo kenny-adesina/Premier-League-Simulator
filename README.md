@@ -1,3 +1,7 @@
+⚠️⚠️ THIS PROGRAM IS GETTING REVAMPED COMPLETELY ⚠️⚠️
+
+Most likely will be completed in December (possibly /w JavaFX)
+
 ## TeamHelper.java
 
 > Instance Variables

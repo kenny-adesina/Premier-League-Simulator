@@ -2,6 +2,8 @@
 
 Most likely will be completed in December (possibly /w JavaFX)
 
+Check it out as it is being developed here: https://github.com/kenny-adesina/MatchSimulator
+
 ## TeamHelper.java
 
 > Instance Variables
